@@ -1,0 +1,1 @@
+﻿This is a library for myself. It's not meant for anything too professional, but it may be useful to some people. Keep in mind everything is subject to change, so if there's something in this library that you intend to use, make sure you copy it into your own project(s). This repository is public domain.
