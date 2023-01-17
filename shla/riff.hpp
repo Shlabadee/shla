@@ -5,16 +5,16 @@
 
 namespace shla
 {
-	class RIFF
-	{
-		protected:
-			uint32_t riff_size;
-		public:
-			uint32_t GetRIFFSize()
-			{
-				return riff_size;
-			}
-	};
+    class RIFF
+    {
+        protected:
+            uint32_t riff_size;
+        public:
+            uint32_t GetRIFFSize()
+            {
+                return riff_size;
+            }
+    };
 }
 
 #endif
